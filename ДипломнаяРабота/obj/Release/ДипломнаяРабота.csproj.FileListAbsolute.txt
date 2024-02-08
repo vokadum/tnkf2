@@ -1,0 +1,79 @@
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\bin\Release\ДипломнаяРабота.exe.config
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\bin\Release\ДипломнаяРабота.exe
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\bin\Release\ДипломнаяРабота.pdb
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.csprojAssemblyReference.cache
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.AddingForm.resources
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.Form1.resources
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.MainForm.resources
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.Properties.Resources.resources
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.Заказы.resources
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.ЗаказыФормаРаботы.resources
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.Клиенты.resources
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.КлиентыФормаРаботы.resources
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.Пользователи.resources
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.ПользователиФормаРаботы.resources
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.Поставщики.resources
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.ПоставщикиФормаРаботы.resources
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.СлужбаДоставки.resources
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.СлужбаДоставкиФормаРаботы.resources
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.Сотрудники.resources
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.СтатусЗаказа.resources
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.Товары.resources
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.ТоварыФормаРаботы.resources
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.csproj.GenerateResource.cache
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.exe
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.pdb
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.РасчетЗарплаты.resources
+C:\Users\егор\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.РасчетЗарплатыФорма.resources
+C:\Users\ИСП-42\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.csproj.AssemblyReference.cache
+C:\Users\ИСП-42\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.AddingForm.resources
+C:\Users\ИСП-42\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.Form1.resources
+C:\Users\ИСП-42\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.MainForm.resources
+C:\Users\ИСП-42\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.Properties.Resources.resources
+C:\Users\ИСП-42\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.Заказы.resources
+C:\Users\ИСП-42\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.ЗаказыФормаРаботы.resources
+C:\Users\ИСП-42\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.Клиенты.resources
+C:\Users\ИСП-42\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.КлиентыФормаРаботы.resources
+C:\Users\ИСП-42\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.Пользователи.resources
+C:\Users\ИСП-42\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.ПользователиФормаРаботы.resources
+C:\Users\ИСП-42\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.Поставщики.resources
+C:\Users\ИСП-42\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.ПоставщикиФормаРаботы.resources
+C:\Users\ИСП-42\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.РасчетЗарплаты.resources
+C:\Users\ИСП-42\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.РасчетЗарплатыФорма.resources
+C:\Users\ИСП-42\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.СлужбаДоставки.resources
+C:\Users\ИСП-42\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.СлужбаДоставкиФормаРаботы.resources
+C:\Users\ИСП-42\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.Сотрудники.resources
+C:\Users\ИСП-42\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.СтатусЗаказа.resources
+C:\Users\ИСП-42\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.Товары.resources
+C:\Users\ИСП-42\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.ТоварыФормаРаботы.resources
+C:\Users\ИСП-42\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.csproj.GenerateResource.cache
+C:\Users\ИСП-42\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.csproj.CoreCompileInputs.cache
+C:\Users\ИСП-42\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.exe
+C:\Users\ИСП-42\Desktop\Новая папка\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.pdb
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.csprojAssemblyReference.cache
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.AddingForm.resources
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.Form1.resources
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.MainForm.resources
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.Properties.Resources.resources
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.Заказы.resources
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.ЗаказыФормаРаботы.resources
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.Клиенты.resources
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.КлиентыФормаРаботы.resources
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.Пользователи.resources
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.ПользователиФормаРаботы.resources
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.Поставщики.resources
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.ПоставщикиФормаРаботы.resources
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.РасчетЗарплаты.resources
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.РасчетЗарплатыФорма.resources
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.СлужбаДоставки.resources
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.СлужбаДоставкиФормаРаботы.resources
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.Сотрудники.resources
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.СтатусЗаказа.resources
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.Товары.resources
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.ТоварыФормаРаботы.resources
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.csproj.GenerateResource.cache
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.exe
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\obj\Release\ДипломнаяРабота.pdb
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\bin\Release\ДипломнаяРабота.exe.config
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\bin\Release\ДипломнаяРабота.exe
+C:\Users\егор\Desktop\Егора\ДипломнаяРабота\ДипломнаяРабота\bin\Release\ДипломнаяРабота.pdb
